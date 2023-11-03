@@ -166,7 +166,7 @@ export default function Navbar({ showMyMenu, onShowMyMenu, onLogOut }) {
           </Link>
           <Link to={ROUTER.PATH.HOT_ARTICLES}>
             <Text large_regular onClick={handleTransaction}>
-              🥕현덕이는 오늘도 고통받는다...🥕
+              🥕버그투성이야 투성투성🥕
             </Text>
           </Link>
         </LogoContainer>
